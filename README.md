@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I’m Abbas Hassan, a software developer from Beirut, Lebanon. I enjoy creating solutions that solve real problems. My focus includes web and mobile development, and I’m always eager to learn new technologies and improve my skills.
+Hi! I’m Abbass Hassan, a software developer from Beirut, Lebanon. I enjoy creating solutions that solve real problems. My focus includes web and mobile development, and I’m always eager to learn new technologies and improve my skills.
 
 
 ## 🌐 Socials:
